@@ -23,20 +23,20 @@ Install Dependencies
 Ensure Python version >= 3.8. Run the following command:
 
 
-```pip install -r requirements.txt
+`pip install -r requirements.txt
 Set API Key
-Add your OpenAI API key in app3.py:```
+Add your OpenAI API key in app3.py:`
 
 python
 
-```openai.api_key = "YOUR_API_KEY_HERE"
+`openai.api_key = "YOUR_API_KEY_HERE"
 Launch the Application
-Run the following command:```
+Run the following command:`
 
 
-```python app3.py
+`python app3.py
 Access the App
-A local URL (or public shareable link) will be provided. Open it in your browser.```
+A local URL (or public shareable link) will be provided. Open it in your browser.`
 
 📂 Project Structure
 app3.py: Main application with Gradio UI and interpretation logic.
@@ -50,4 +50,4 @@ Language Detection & Translation: Supports multiple languages for explanations.
 📸 Preview
 Interface includes:
 
-```Hexagram Generation → Interpretation Display → Auto Language Detection & Translation```
+`Hexagram Generation → Interpretation Display → Auto Language Detection & Translation`
