@@ -10,4 +10,4 @@ pinned: false
 short_description: HexagramAI. Support multiple Languages
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+TEST : https://huggingface.co/spaces/NetRoller/8Trigrams
