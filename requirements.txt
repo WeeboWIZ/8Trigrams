@@ -1,0 +1,3 @@
+gradio
+openai==0.28  # 或 openai>=1.0.0 如果已更新代碼
+python-dotenv
